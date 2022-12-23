@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aurora-FN/Backend.git"
+    "url": "git+https://github.com/TW-Knrl/AuroraBackend.git"
   },
   "author": "aurora",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Aurora-FN/Backend/issues"
+    "url": "https://github.com/TW-Knrl/AuroraBackend/issues"
   },
-  "homepage": "https://github.com/Aurora-FN/Backend#readme",
+  "homepage": "https://github.com/TW-Knrl/AuroraBackend#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
