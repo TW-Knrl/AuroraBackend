@@ -1,18 +1,3 @@
-"# riseclient-netlify" 
-"# riseclient-netlify" 
-"Start" 
-"# TW-Knrl" 
-"# TW-Knrl" 
-"# KFNLauncher" 
-"# DiscordModding" 
-"# TW-Index" 
-"# TW-Index" 
-"# Aurora-V2" 
-"# AuroraV2-VercelSite" 
-"# Aurora-Site" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# AuroraBackend" 
-"# AuroraBackend" 
+# Aurora Backend
+
+This is the old aurora backend...
